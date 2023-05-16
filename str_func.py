@@ -6,4 +6,4 @@ def change_to_capitals(value):
 def change_to_capitals_one_letter(value):
 
     return value.apper[0]
-
+xtnj
